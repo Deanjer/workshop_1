@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+*{
+    margin:0;
+    padding:0;
+}
+
+#header {
+background-color:bisque;
+height: 75px;
+right:80px;
+text-indent:50px;
+line-height: 70px;
+font-family: Courier new;
+font-weight: bold;
+font-size: 50px;
+}
+#content{
+background-color:gray;
+height:1000px;
+color:aliceblue;
+font-family: Arial;
+}
+#footer{
+background-color:bisque;
+height: 100px;
+}
+img {
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.txt {
+font-size: 15px;
+margin-left: 100px;
+}
+#img2{
+    
+}
